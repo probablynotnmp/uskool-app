@@ -1,6 +1,6 @@
 # USkool
 
-## By Spectre 2.0 for <ion>athon 1.0 organized by HackerEarth
+## By Spectre 2.0, for ionathon 1.0 organized by HackerEarth
 
 ### This build was originally a mockup created in figma and then was later converted into a flutter project with the help of Flutlab
 
