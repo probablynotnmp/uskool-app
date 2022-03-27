@@ -1,0 +1,2 @@
+# USkool-App
+An app that aims to promote and strengthen adult learning, reaching out to those who missed the opportunity to access or complete formal education. As well as basic literacy/basic education, it covers school education and skill development.Continuing Education aspect of the programme creates a sustainable learning environment for neo-literates to continue using and improving their skills.
