@@ -1,6 +1,9 @@
 # USkool
 
-alt="USkool Logo" src="https://user-images.githubusercontent.com/85440373/160920004-1acf5aa8-87ac-4151-b0a9-4fb527d2e430.png"
+<img width="341" alt="USkool Logo" src="https://user-images.githubusercontent.com/85440373/160920004-1acf5aa8-87ac-4151-b0a9-4fb527d2e430.png">
+
+
+
 
 
 ## The 'USkool' app or formerly 'Back2Books' is an app that aims to promote and strengthen adult learning, reaching out to those who missed the opportunity to access or complete formal education. As well as basic literacy/basic education, it covers school education and skill development. Continuing Education aspect of the programme creates a sustainable learning environment for neo-literates to continue using and improving their skills. This is done through the provision of virtual classrooms from 5th to 12th classes. Each candidate can register under the Kerala state ministry of education and join their respective classes with the app .online classes, live classes, online libraries, video classes subject wise teachers, continuous evaluation methods are the features included.
