@@ -1,6 +1,6 @@
 # USkool
 
-<img width="341" alt="USkool Logo" src="https://user-images.githubusercontent.com/85440373/160920004-1acf5aa8-87ac-4151-b0a9-4fb527d2e430.png">
+<"https://user-images.githubusercontent.com/85440373/160920004-1acf5aa8-87ac-4151-b0a9-4fb527d2e430.png">
 
 
 
