@@ -1,4 +1,4 @@
-# USkool
+# USkool (Learning has no age)
 
 ![Learning has no age](https://user-images.githubusercontent.com/85440373/160921533-61b5453e-b15f-4683-a0fd-249335c4e83f.png)
 
@@ -12,8 +12,6 @@
 ### * Online libraries
 ### * Video classes subject wise teachers
 ### * Continuous evaluation methods
-
-
 
 #### By Spectre 2.0, for ionathon 1.0 organized by HackerEarth
 
