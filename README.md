@@ -7,11 +7,11 @@
 
 ### Provided Services:
 
-### Online classes
-### Live classes
-### Online libraries
-### Video classes subject wise teachers
-### Continuous evaluation methods
+### * Online classes
+### * Live classes
+### * Online libraries
+### * Video classes subject wise teachers
+### * Continuous evaluation methods
 
 
 
